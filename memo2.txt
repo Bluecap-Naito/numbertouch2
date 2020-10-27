@@ -6,6 +6,3 @@
 
 3.main.cpp、Menu.cppをPDFのように修正する
 
-4.menu.cppをPDFのように修正する
-
-
